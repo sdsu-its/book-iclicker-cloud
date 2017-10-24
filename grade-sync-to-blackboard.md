@@ -1,30 +1,22 @@
 # iClicker Cloud Grade Sync With Blackboard
 
-## 1\) 
+Before syncing grades to your LMS, please make sure that you have already created the iClicker Cloud Association Link in your LMS.
 
-To Synchronize your scores, click **Launch Gradebook**
+## 1\)
 
-![](/assets/step1.png)
+Click **Launch Gradebook** within your iClicker Cloud course dashboard to open a new browser that takes you directly to your course Gradebook online, or go directly to [instructor.reef-education.com](https://community.macmillan.com/external-link.jspa?url=https%3A%2F%2Finstructor.reef-education.com%2F%23%2Flogin) and login with your username and password.
 
-
+[![](https://community.macmillan.com/servlet/JiveServlet/downloadImage/102-7897-2-278608/500-321/kA10Z0000003V2kSAE.png)](https://community.macmillan.com/servlet/JiveServlet/showImage/102-7897-2-278608/kA10Z0000003V2kSAE.png)
 
 ## 2\)
 
-Once you've been taken to the online gradebook, click **Sync Scores to LMS**.
+In the online gradebook, click the **Sync Grades **button to synchronize your iClicker Cloud score totals to your LMS. Students who have used the link will show a green dot in the **Sync Connection** column. Whenever you sync your scores, you also send an email reminder to any student who has not yet used the link you created. You can turn this option off in the **Grade Sync **tab of your **Course Settings**.
 
-![](/assets/step2.png)
+TIP: The online Roster export includes the Sync Connection status for your students.
 
-**Note**: Whenever you sync your scores, you also send an email reminder to any student who has not yet used the iClicker Cloud-association link. You can turn this option off in the **LMS Sync** tab of your **Course Settings**.
+[![](https://community.macmillan.com/servlet/JiveServlet/downloadImage/102-7897-2-278636/500-281/kA10Z0000003V2kSAE.png)](https://community.macmillan.com/servlet/JiveServlet/showImage/102-7897-2-278636/kA10Z0000003V2kSAE.png)
 
+**How Score Totals are Synced**
 
-
-**Note**: iClicker Cloud score totals are synced to Blackboard as percentages normalized to the points you defined in Blackboard. While points in iClicker Cloud are built up from zero, the scores in Blackboard start at the maximum number of points and are updated every time a sync is performed.
-
-
-
-#### For a quick video guide, check out this link: 
-
-https://community.macmillan.com/external-link.jspa?url=https%3A%2F%2Fyoutu.be%2FcHcmGwE7IqE
-
-This video was recorded prior to the **Sync Scores to LMS **button moving to the online gradebook. Please remember to click **Launch Gradebook **to find this button in iClicker Cloud.
+iClicker Cloud score totals are synced to your LMS as percentages. In the LMS, you define the total points iClicker Cloud is worth for your course. When you sync the iClicker Cloud percent, it is normalized to reflect the percentage of points defined in the LMS.
 
