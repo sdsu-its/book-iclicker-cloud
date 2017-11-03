@@ -1,6 +1,6 @@
 # Summary
 
-* [Quick Start Application Setup](README.md)
-* [iClicker Admin LTI](iclicker-admin-lti.md)
-* [Grade Sync to Blackboard](grade-sync-to-blackboard.md)
+* [Quick Start Application Setup](getting-started.md)
+* [iClicker Admin LTI](lti.md)
+* [Grade Sync to Blackboard](grade-sync.md)
 
