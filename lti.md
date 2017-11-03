@@ -20,7 +20,9 @@ From the **Settings** window, select the **Grade Sync** tab and select "Single-c
 
 ## 3\)
 
-**Note**: Make sure that the course **Edit Mode** is set to **ON** from your Blackboard Course home page.
+> **[info] Edit Mode**
+>
+> Make sure that the course **Edit Mode** is set to **ON** from your Blackboard Course home page.
 
 In the side navigation, expand the course options to select a certain content area such as course documents or your announcement pages \(which ever you prefer\).
 
@@ -40,7 +42,7 @@ This link is to a Tool Provider: checked
 
 Enable Evaluation: Yes
 
-Points Possible: \[_total ponits all Reef Sessions will be worth in your course\] \(you should be able to change this at a later date\)_
+Points Possible: \[_total points all Reef Sessions will be worth in your course\] \(you should be able to change this at a later date\)_
 
 ![](/assets/s4.png)
 
