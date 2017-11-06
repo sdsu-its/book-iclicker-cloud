@@ -6,7 +6,7 @@ Before syncing grades to your LMS, please make sure that you have already create
 
 Click **Launch Gradebook** within your iClicker Cloud course dashboard to open a new browser that takes you directly to your course Gradebook online, or go directly to [instructor.reef-education.com](https://community.macmillan.com/external-link.jspa?url=https%3A%2F%2Finstructor.reef-education.com%2F%23%2Flogin) and login with your username and password.
 
-[![](https://community.macmillan.com/servlet/JiveServlet/downloadImage/102-7897-2-278608/500-321/kA10Z0000003V2kSAE.png)](https://community.macmillan.com/servlet/JiveServlet/showImage/102-7897-2-278608/kA10Z0000003V2kSAE.png)
+[![software course in software with "launch gradebook" boxed](https://community.macmillan.com/servlet/JiveServlet/downloadImage/102-7897-2-278608/500-321/kA10Z0000003V2kSAE.png)](https://community.macmillan.com/servlet/JiveServlet/showImage/102-7897-2-278608/kA10Z0000003V2kSAE.png)
 
 ## 2\)
 
@@ -14,7 +14,7 @@ In the online gradebook, click the **Sync Grades **button to synchronize your iC
 
 TIP: The online Roster export includes the Sync Connection status for your students.
 
-[![](https://community.macmillan.com/servlet/JiveServlet/downloadImage/102-7897-2-278636/500-281/kA10Z0000003V2kSAE.png)](https://community.macmillan.com/servlet/JiveServlet/showImage/102-7897-2-278636/kA10Z0000003V2kSAE.png)
+[![software gradebook tab with all courses selected and the "sync grades" button pointed to](https://community.macmillan.com/servlet/JiveServlet/downloadImage/102-7897-2-278636/500-281/kA10Z0000003V2kSAE.png)](https://community.macmillan.com/servlet/JiveServlet/showImage/102-7897-2-278636/kA10Z0000003V2kSAE.png)
 
 **How Score Totals are Synced**
 

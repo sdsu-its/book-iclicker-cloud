@@ -10,13 +10,13 @@ Currently, iClicker Cloud is a single column upload. Every time you sync your sc
 
 Select your iClicker Cloud course and open the course settings. Click either the gear icon in the side panel or the **Edit** button on your course dashboard.
 
-![](/assets/s1.png)
+![software demo course screen boxing the "edit" button](/assets/s1.png)
 
 ## 2\)
 
 From the **Settings** window, select the **Grade Sync** tab and select "Single-column grade sync." Click **Copy Link** to copy the course-specific link. This link is unique for each iClicker Cloud course. You need to follow these directions for each course you are teaching and paste the specific link into your corresponding LMS course.
 
-![](/assets/s2.png)
+![software grade sync portion of settings with single column grade sync selected with reminder option checked](/assets/s2.png)
 
 ## 3\)
 
@@ -28,7 +28,7 @@ In the side navigation, expand the course options to select a certain content ar
 
 From this content area, select **Build Content** to reveal a drop-down menu and select **Web Link** under the **Create **section of this menu.
 
-![](/assets/s3.png)
+![blackboard content area with web link selected under "build content" drop down](/assets/s3.png)
 
 ## 4\)
 
@@ -44,7 +44,7 @@ Enable Evaluation: Yes
 
 Points Possible: \[_total points all Reef Sessions will be worth in your course\] \(you should be able to change this at a later date\)_
 
-![](/assets/s4.png)
+![blackboard web link information content build screen with correct example values](/assets/s4.png)
 
 ## 5\)
 
