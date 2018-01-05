@@ -1,6 +1,6 @@
 # Automatic Grade Sync With LTI \(Recommended\)
 
-iClicker Cloud uses Learning Tools Interoperability \(LTI\) standards to publish scores from students' iClicker Reef accounts to the grade book. This integration is an alternative to the manual export/import process with external CSV files.
+iClicker Cloud uses Learning Tools Interoperability \(LTI\) standards to sync scores to the Blackboard Grade Center. This integration is an alternative to the manual export/import process with external CSV files.
 
 **Before you can proceed, ensure that your LMS admin has enabled iClicker as an external tool.**
 
