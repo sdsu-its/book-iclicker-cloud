@@ -1,6 +1,6 @@
 # iClicker Cloud Faculty Quick Start Guide
 
-In addition to the regular functionality that iClicker 2 offers, iClicker Cloud offers more features such as GPS based attendance, online gradebook access, and cloud storage. This document will guide you through setting up and maintaining an iClicker Cloud course.
+In addition to the regular functionality that iClicker2 offers, iClicker Cloud offers more features such as GPS based attendance, online gradebook access, and cloud storage. This document will guide you through setting up and maintaining an iClicker Cloud course.
 
 You may use your blue handheld iClicker2 remote to drive your presentation and your polling sessions. Add your instructor remote ID, an eight-character code located on the back of your blue remote, during account creation or by updating your profile on the iClicker Cloud website.
 
