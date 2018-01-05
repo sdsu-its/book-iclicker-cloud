@@ -12,15 +12,15 @@ Open your iClicker Cloud app and select your course.  Click either the gear icon
 
 ![software demo course screen boxing the &quot;edit&quot; button](/assets/s1.png)
 
-### 2. Get the LTI link. 
+### 2. Get the LTI link.
 
-From the **Settings** window, select the **Grade Sync** tab and select "Single-column grade sync." Click **Copy Link** to copy the course-specific link. 
+From the **Settings** window, select the **Grade Sync** tab and select "Single-column grade sync." Click **Copy Link** to copy the course-specific link.
 
 NOTE: This link is unique for each iClicker Cloud course. You need to follow these directions precisely for each course you are teaching.
 
 ![software grade sync portion of settings with single column grade sync selected with reminder option checked](/assets/s2.png)
 
-## 3\)
+### 3. Add link to your course.
 
 > **\[info\] Edit Mode**
 >
