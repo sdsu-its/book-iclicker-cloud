@@ -2,20 +2,19 @@
 
 ## Functionality
 
-In addition to the regular functionality that iClicker 2 offers students and staff, iClicker Cloud offers more features such as GPS based attendance, online gradebook access, and cloud storage. It should be noted that **students should be on SDSU "eduroam" ** wireless network when using this application or use cellular data.
+In addition to the regular functionality that iClicker 2 offers, iClicker Cloud offers more features such as GPS based attendance, online gradebook access, and cloud storage. It should be noted that **students should be on SDSU "eduroam" ** wireless network when using this application or use cellular data.
 
 ## Instructions
 
 ### 1. Install Application
 
-Download the iClicker Cloud software from the iClicker Cloud website \([https://www.iclicker.com/instructors/software/iclicker-cloud\](https://www.iclicker.com/instructors/software/iclicker-cloud\)\). Double-click the downloaded setup file and follow the setup directions to install iClicker Cloud software on your computer.
+Download the iClicker Cloud software from the website \([https://www.iclicker.com/instructors/software/iclicker-cloud\](https://www.iclicker.com/instructors/software/iclicker-cloud%29\). Double-click the downloaded setup file and follow the setup directions to install iClicker Cloud software on your computer.
 
-NOTE: You must have administrator rights on your computer to complete this installation. ITS will install iClicker Cloud on the classroom podiums.
+NOTE: You must have administrator rights on your computer to complete this installation. ITS will install iClicker Cloud on classroom podiums.
 
 ### 2. Login/Create Account
 
-If you have not already created an iClicker Cloud account, launch the iClicker Cloud application. From the login window, select "Create Account". If you have already created an account, login with your credentials.  
-
+If you have not already created an iClicker Cloud account, launch the iClicker Cloud application. From the login window, select "Create Account".** **_**If you have already created a Reef account, login with your credentials.**_
 
 ![Login Screen](https://www.iclicker.com/media/1187/win_1signin_360.jpg)
 
