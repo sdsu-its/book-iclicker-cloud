@@ -1,35 +1,28 @@
 # iClicker Cloud Quick Start Guide
 
-This Document should guide you through setting up and maintaining an iClicker Cloud based classroom
-
 ## Functionality
 
-In Addition to the regular functionality that iClicker 2 offers students and staff, iClicker Cloud offers more features such as GPS based attendance, online gradebook access, and cloud and backup storage. It should be noted that **students should be on eduroam** when using this application.
+In addition to the regular functionality that iClicker 2 offers students and staff, iClicker Cloud offers more features such as GPS based attendance, online gradebook access, and cloud storage. It should be noted that **students should be on SDSU "eduroam" ** wireless network when using this application or use cellular data.
 
 ## Instructions
 
 ### 1. Install Application
 
-Double-click the downloaded setup file and follow the setup directions to install iClicker Cloud software on your computer. You must have administrator rights on your computer to complete this installation.
+Download the iClicker Cloud software from the iClicker Cloud website \(https://www.iclicker.com/instructors/software/iclicker-cloud\). Double-click the downloaded setup file and follow the setup directions to install iClicker Cloud software on your computer. 
+
+NOTE: You must have administrator rights on your computer to complete this installation. ITS will install iClicker Cloud on the classroom podiums.
 
 ### 2. Login/Create Account
 
-If you have not already created an iClicker Cloud account, launch the iClicker Cloud application. From the login window, select "Create Account". If you have already created an account, login with your credentials.
-```
-
-  
-
-
-
-
-
+If you have not already created an iClicker Cloud account, launch the iClicker Cloud application. From the login window, select "Create Account". If you have already created an account, login with your credentials.  
+\`\`\`
 
 ![Login Screen](https://www.iclicker.com/media/1187/win_1signin_360.jpg)
 
 ### 3. Create Course
 
 From the logged in Course Dashboard, create your first course by clicking the "Add New Course" button.  
-![software course menu with "create a course" pointed to](https://www.iclicker.com/media/1171/win-cloud-add-course.png)  
+![software course menu with &quot;create a course&quot; pointed to](https://www.iclicker.com/media/1171/win-cloud-add-course.png)  
 To create a course, you must provide your course name, institution name, discipline, and course start and end dates. If you are sampling iClicker Cloud and your institution is not in the list, you can use “Demo Institution” \(or if you are Canadian, “Demo Institution Canada”\) as your institution.
 
 All other fields are optional, but completing them will make it easier for you and your students to identify your course.
@@ -40,7 +33,7 @@ All other fields are optional, but completing them will make it easier for you a
 
 You are now ready to start your first session and begin polling your students. To begin a session, click the green "Start Session" button located under the course name.
 
-![software course screen with "start polling session" pointed to](https://www.iclicker.com/media/1176/win-cloud-start-session.png)
+![software course screen with &quot;start polling session&quot; pointed to](https://www.iclicker.com/media/1176/win-cloud-start-session.png)
 
 ### 5.Start a Poll
 
