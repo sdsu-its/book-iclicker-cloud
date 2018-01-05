@@ -14,7 +14,7 @@ NOTE: You must have administrator rights on your computer to complete this insta
 
 ### 2. Login/Create Account
 
-If you have not already created an iClicker Cloud account, launch the iClicker Cloud application. From the login window, select "Create Account".** **_**If you have already created a Reef account, login with your credentials.**_
+If you have not already created an iClicker Cloud account, launch the iClicker Cloud application. From the login window, select "Create Account".** **_**If you have already created a Reef account, login with your credentials \(true?\).**_
 
 ![Login Screen](https://www.iclicker.com/media/1187/win_1signin_360.jpg)
 
