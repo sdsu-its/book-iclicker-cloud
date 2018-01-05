@@ -2,7 +2,7 @@
 
 ## Functionality
 
-In addition to the regular functionality that iClicker 2 offers, iClicker Cloud offers more features such as GPS based attendance, online gradebook access, and cloud storage. It should be noted that **students should be on SDSU "eduroam" ** wireless network when using this application or use cellular data.
+In addition to the regular functionality that iClicker2 offers, iClicker Cloud offers more features such as GPS based attendance, online gradebook access, and cloud storage. It should be noted that **students should be on SDSU "eduroam" ** wireless network when using this application or use cellular data.
 
 ## Instructions
 
