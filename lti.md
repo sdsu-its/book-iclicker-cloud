@@ -26,33 +26,29 @@ NOTE: This link is unique for each iClicker Cloud course. You need to follow the
 >
 > Make sure that the course **Edit Mode** is set to **ON** from your Blackboard Course home page.
 
-In the side navigation, expand the course options to select a certain content area such as course documents or your announcement pages \(which ever you prefer\).
+Choose an existing content area from your course navigation menu or create a new one to house your iClicker registration links. \(See "[Create a Link on Course Menu](https://help.blackboard.com/Learn/Instructor/Getting_Started/Navigate_Inside_a_Course)" for instructions.\) 
 
-From this content area, select **Build Content** to reveal a drop-down menu and select **Web Link** under the **Create **section of this menu.
+Select **Build Content** to reveal a drop-down menu and select **Web Link** under the **Create **section of this menu.
 
 ![blackboard content area with web link selected under &quot;build content&quot; drop down](/assets/s3.png)
 
-## 4\)
+### 4. Fill in the Web Link info
 
 Complete the **Web Link Information** sections with the following information:
 
-Name: iClicker Reef \(recommended name\)
-
-URL: \[_paste the URL copied from your iClicker Cloud course settings_\]
-
-This link is to a Tool Provider: checked
-
-Enable Evaluation: Yes
-
-Points Possible: \[_total points all Reef Sessions will be worth in your course\] \(you should be able to change this at a later date\)_
+* Name: Reef Registration
+* URL: \[_paste the URL copied from your iClicker Cloud course settings_\]
+* This link is to a Tool Provider: checked
+* Enable Evaluation: Yes
+* Points Possible: \[_total points all Reef Sessions will be worth in your course\] \(you can change this at a later date\)_
 
 ![blackboard web link information content build screen with correct example values](/assets/s4.png)
 
-## 5\)
+### 5. Save
 
-Click **Save **to complete the tool set-up for your course.
+NOTE: Instruct your students to log into Blackboard and use the link that you created to register their Reef Student accounts. 
 
-## 6\)
+You could also add an iClicker handheld registration link to this Blackboard page by expanding the Tools tab \(to the right of the Build Content tab\) =&gt; choose More Tools =&gt; i&gt;clicker Student Registration =&gt; Make Available = Yes =&gt; Submit. Make sure to clearly label the two different options.
 
-Instruct your students to log into Blackboard and use the link that you created to access their Reef Student accounts.
+
 
