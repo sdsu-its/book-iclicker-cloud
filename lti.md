@@ -2,7 +2,7 @@
 
 iClicker Cloud uses Learning Tools Interoperability \(LTI\) standards to sync scores to the Blackboard Grade Center. This integration is an alternative to the manual export/import process with external CSV files.
 
-Currently, iClicker Cloud grade syncs to a single column in Blackboard. Every time you sync your scores, the column will be updated to reflect the new running total. \(This can only be done with instructor credentials\).
+As of Spring2018, iClicker Cloud grade syncs to a single column in Blackboard. Every time you sync your scores, the column will be updated to reflect the new running total. \(This can only be done with instructor credentials\).
 
 NOTE: Individual sessions can be manually exported from iClicker and then uploaded to Blackboard.
 
