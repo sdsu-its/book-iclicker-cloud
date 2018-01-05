@@ -18,7 +18,7 @@ If you have not already created an iClicker Cloud account, launch the iClicker C
 
 _**If you have already created a Reef account, login with your credentials \(true?\). **_
 
-There will be an option during account creation to add your instructor remote ID. You can also add it later by updating your profile on the iClicker Cloud website.
+There will be an option during account creation to add your instructor remote ID. You can also add it later by updating your profile on the iClicker Cloud website. \([Instructions for updating your profile](https://community.macmillan.com/docs/DOC-7515-set-up-and-use-an-instructor-remote-in-iclicker-cloud) are located on the iClicker website.\)
 
 ![Login Screen](https://www.iclicker.com/media/1187/win_1signin_360.jpg)
 
