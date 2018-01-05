@@ -14,7 +14,11 @@ NOTE: You must have administrator rights on your computer to complete this insta
 
 ### 2. Login/Create Account
 
-If you have not already created an iClicker Cloud account, launch the iClicker Cloud application. From the login window, select "Create Account".** **_**If you have already created a Reef account, login with your credentials \(true?\).**_
+If you have not already created an iClicker Cloud account, launch the iClicker Cloud application. From the login window, select "Create Account".** **
+
+_**If you have already created a Reef account, login with your credentials \(true?\). **_
+
+There will be an option during account creation to add your instructor remote ID. You can also add it later by updating your profile on the iClicker Cloud website.
 
 ![Login Screen](https://www.iclicker.com/media/1187/win_1signin_360.jpg)
 
@@ -46,5 +50,5 @@ Start polling by clicking the start button on the Polling Toolbar.
 
 #### 6. Respond Using Another Device
 
-To experience student polling firsthand, find another web-enabled device such as a smartphone or tablet. From your second device, visit the student website at [app.reef-education.com](http://app.reef-education.com/) and log in using the credentials for the instructor account you created in step 2. Add the course you created in step 3 by selecting the “+” button and searching for your course institution and course name. Join the session and respond to the question.
+To experience student polling firsthand, find another web-enabled device such as a smartphone or tablet. From your second device, visit the student website at [app.reef-education.com](http://app.reef-education.com/) and login using the credentials for the instructor account you created in step 2. Add the course you created in step 3 by selecting the “+” button and searching for your course institution and course name. Join the session and respond to the question.
 

@@ -1,6 +1,6 @@
 # Automatic Grade Sync With LTI \(Recommended\)
 
-iClicker Cloud uses Learning Tools Interoperability \(LTI\) standards to publish scores from students' iClicker Reef accounts to the LMS gradebook with a single click. This integration is an alternative to the manual export/import process with external CSV files.
+iClicker Cloud uses Learning Tools Interoperability \(LTI\) standards to publish scores from students' iClicker Reef accounts to the grade book. This integration is an alternative to the manual export/import process with external CSV files.
 
 **Before you can proceed, ensure that your LMS admin has enabled iClicker as an external tool.**
 
@@ -10,7 +10,7 @@ Currently, iClicker Cloud is a single column upload. Every time you sync your sc
 
 Select your iClicker Cloud course and open the course settings. Click either the gear icon in the side panel or the **Edit** button on your course dashboard.
 
-![software demo course screen boxing the "edit" button](/assets/s1.png)
+![software demo course screen boxing the &quot;edit&quot; button](/assets/s1.png)
 
 ## 2\)
 
@@ -20,7 +20,7 @@ From the **Settings** window, select the **Grade Sync** tab and select "Single-c
 
 ## 3\)
 
-> **[info] Edit Mode**
+> **\[info\] Edit Mode**
 >
 > Make sure that the course **Edit Mode** is set to **ON** from your Blackboard Course home page.
 
@@ -28,7 +28,7 @@ In the side navigation, expand the course options to select a certain content ar
 
 From this content area, select **Build Content** to reveal a drop-down menu and select **Web Link** under the **Create **section of this menu.
 
-![blackboard content area with web link selected under "build content" drop down](/assets/s3.png)
+![blackboard content area with web link selected under &quot;build content&quot; drop down](/assets/s3.png)
 
 ## 4\)
 
