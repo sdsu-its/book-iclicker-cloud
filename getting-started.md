@@ -1,4 +1,4 @@
-# iClicker Cloud Quick Start Guide
+# iClicker Cloud Faculty Quick Start Guide
 
 ## Functionality
 
@@ -8,14 +8,14 @@ In addition to the regular functionality that iClicker 2 offers students and sta
 
 ### 1. Install Application
 
-Download the iClicker Cloud software from the iClicker Cloud website \(https://www.iclicker.com/instructors/software/iclicker-cloud\). Double-click the downloaded setup file and follow the setup directions to install iClicker Cloud software on your computer. 
+Download the iClicker Cloud software from the iClicker Cloud website \([https://www.iclicker.com/instructors/software/iclicker-cloud\](https://www.iclicker.com/instructors/software/iclicker-cloud\)\). Double-click the downloaded setup file and follow the setup directions to install iClicker Cloud software on your computer.
 
 NOTE: You must have administrator rights on your computer to complete this installation. ITS will install iClicker Cloud on the classroom podiums.
 
 ### 2. Login/Create Account
 
 If you have not already created an iClicker Cloud account, launch the iClicker Cloud application. From the login window, select "Create Account". If you have already created an account, login with your credentials.  
-\`\`\`
+
 
 ![Login Screen](https://www.iclicker.com/media/1187/win_1signin_360.jpg)
 
@@ -47,5 +47,5 @@ Start polling by clicking the start button on the Polling Toolbar.
 
 #### 6. Respond Using Another Device
 
-To experience student polling firsthand, find another web-enabled device such as a smartphone or tablet. Using a second device will provide a more realistic simulation of the student experience. From your second device, visit the student website at [app.reef-education.com](http://app.reef-education.com/) and log in using the credentials for the instructor account you created in step 2. Add the course you created in step 3 by selecting the “+” button and searching for your course institution and course name. Join the session and respond to the question.
+To experience student polling firsthand, find another web-enabled device such as a smartphone or tablet. From your second device, visit the student website at [app.reef-education.com](http://app.reef-education.com/) and log in using the credentials for the instructor account you created in step 2. Add the course you created in step 3 by selecting the “+” button and searching for your course institution and course name. Join the session and respond to the question.
 
