@@ -6,7 +6,7 @@ As of Spring2018, iClicker Cloud grades sync to a single column in Blackboard. E
 
 NOTE: Individual session scores can be manually exported from iClicker and then uploaded to Blackboard.
 
-### 1. 
+### 1. Set up Grade Book integration. 
 
 Select your iClicker Cloud course and open the course settings. Click either the gear icon in the side panel or the **Edit** button on your course dashboard.
 
