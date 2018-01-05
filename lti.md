@@ -20,7 +20,7 @@ NOTE: This link is unique for each iClicker Cloud course. You need to follow the
 
 ![software grade sync portion of settings with single column grade sync selected with reminder option checked](/assets/s2.png)
 
-### 3. Add link to your course.
+### 3. Add LTI link to your course.
 
 > **\[info\] Edit Mode**
 >
