@@ -1,4 +1,4 @@
-# iClicker Cloud Faculty Quick Start Guide
+# Getting Started
 
 ## Functionality
 
@@ -24,9 +24,19 @@ There will be an option during account creation to add your instructor remote ID
 
 ### 3. Create Course
 
-Login and create a course by clicking the "Add New Course" button.  
-![software course menu with &quot;create a course&quot; pointed to](https://www.iclicker.com/media/1171/win-cloud-add-course.png)  
-You must provide your course name, institution name, discipline, and course start and end dates. If you are sampling iClicker Cloud and your institution is not in the list, you can use “Demo Institution” \(or if you are Canadian, “Demo Institution Canada”\) as your institution.
+Login and create a course by clicking the "Add New Course" button.
+
+![software course menu with &quot;create a course&quot; pointed to](https://www.iclicker.com/media/1171/win-cloud-add-course.png)
+
+You must provide your course name, institution name, discipline, and course start and end dates. If you are sampling iClicker Cloud and your institution is not in the list, you can use “Demo Institution” 
+
+\(
+
+or if you are Canadian, “Demo Institution Canada”
+
+\)
+
+ as your institution.
 
 All other fields are optional, but completing them will make it easier for you and your students to identify your course.
 

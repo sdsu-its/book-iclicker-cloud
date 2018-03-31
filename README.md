@@ -1,4 +1,4 @@
-# iClicker Cloud Faculty Quick Start Guide
+# Introduction
 
 In addition to the regular functionality that iClicker2 offers, iClicker Cloud offers more features such as GPS based attendance, online gradebook access, and cloud storage. This document will guide you through setting up and maintaining an iClicker Cloud course.
 
